@@ -1,1 +1,1 @@
-# Advanced Information Retrieval(AIR) Project
+# Advanced Information Retrieval Project
